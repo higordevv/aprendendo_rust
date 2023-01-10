@@ -1,1 +1,3 @@
-# Repositorio para registra meu aprendizado a linguagem de programação Rust
+<h1 align="center">Repositorio para registra meu aprendizado a linguagem de programação Rust </h1>
+
+<p align="center">Este é um repositório dedicado ao registro do meu aprendizado na linguagem de programação Rust. Rust é uma linguagem moderna e de propósito geral, projetada para ser segura, rápida e concisa. Aprenderei sobre os principais recursos e características do Rust, como sua segurança de memória, seu sistema de tipos forte, sua performance e eficiência, e sua comunidade ativa e amigável. Este repositório servirá como uma fonte de referência para o meu progresso no aprendizado do Rust e também como uma forma de compartilhar o conhecimento adquirido com outros interessados.</p>
